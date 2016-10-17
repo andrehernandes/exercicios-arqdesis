@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Aula13</string>
+    <string name="edit_message">Escreva uma mensagem</string>
+    <string name="button_send">Enviar</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
