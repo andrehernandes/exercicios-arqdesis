@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula15</string>
+    <string name="text_user">Usuario</string>
+    <string name="text_password">Senha</string>
+    <string name="text_btn">Acessar!</string>
+    <string name="login_hint">Utilize apenas numeros para seu usuario</string>
+</resources>
